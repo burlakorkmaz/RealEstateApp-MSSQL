@@ -1,0 +1,27 @@
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\bin\Debug\RealEstate.exe.config
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\bin\Debug\RealEstate.exe.config
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\bin\Debug\RealEstate.exe
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\bin\Debug\RealEstate.pdb
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\RealEstate.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\B151200018.ApartmanBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\B151200018.ArsaBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\B151200018.DaireBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\B151200018.Form1.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\B151200018.KonutBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\RealEstate.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\RealEstate.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\RealEstate.exe
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\RealEstate\obj\Debug\RealEstate.pdb
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\bin\Debug\RealEstate.exe.config
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.exe
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.pdb
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\bin\Debug\RealEstate.exe
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\bin\Debug\RealEstate.pdb
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.ApartmanBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.ArsaBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.DaireBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.Form1.resources
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.KonutBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\RealEstate App\RealEstate\obj\Debug\RealEstate.csproj.GenerateResource.Cache

@@ -1,0 +1,52 @@
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\bin\Debug\B151200018.exe.config
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\bin\Debug\B151200018.exe
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\bin\Debug\B151200018.pdb
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.csprojResolveAssemblyReference.cache
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.ArsaBilgileri.resources
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.Form1.resources
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.Properties.Resources.resources
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.csproj.GenerateResource.Cache
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.exe
+c:\users\monster\documents\visual studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.pdb
+C:\Users\MONSTER\Documents\Visual Studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.DaireBilgileri.resources
+C:\Users\MONSTER\Documents\Visual Studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.KonutBilgileri.resources
+C:\Users\MONSTER\Documents\Visual Studio 2015\Projects\B151200018\B151200018\obj\Debug\B151200018.ApartmanBilgileri.resources
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\bin\Debug\B151200018.exe.config
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.exe
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.pdb
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\bin\Debug\B151200018.exe
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\bin\Debug\B151200018.pdb
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.ApartmanBilgileri.resources
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.ArsaBilgileri.resources
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.DaireBilgileri.resources
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.Form1.resources
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.KonutBilgileri.resources
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\B151200018 - Kopya\B151200018\obj\Debug\B151200018.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\bin\Debug\B151200018.exe.config
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.exe
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.pdb
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\bin\Debug\B151200018.exe
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\bin\Debug\B151200018.pdb
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.ApartmanBilgileri.resources
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.ArsaBilgileri.resources
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.DaireBilgileri.resources
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.Form1.resources
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.KonutBilgileri.resources
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\EnglishVersion\B151200018\obj\Debug\B151200018.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\bin\Debug\B151200018.exe.config
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.exe
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.pdb
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\bin\Debug\B151200018.exe
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\bin\Debug\B151200018.pdb
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.ApartmanBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.ArsaBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.DaireBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.Form1.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.KonutBilgileri.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\RealEstateApp - Kopya\B151200018\obj\Debug\B151200018.csproj.GenerateResource.Cache
