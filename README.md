@@ -18,8 +18,11 @@ To use database, project's database must be added to clients sql server. There i
 
 
 ![menu](https://user-images.githubusercontent.com/44754287/47970655-ad7bf400-e099-11e8-8058-a2b940dd9398.jpg)
+### --
 ![land](https://user-images.githubusercontent.com/44754287/47970657-af45b780-e099-11e8-8962-f21f8bbd32d5.jpg)
+### --
 ![land2](https://user-images.githubusercontent.com/44754287/47970658-b10f7b00-e099-11e8-9ea2-a02d2f222d3e.jpg)
+### --
 ![apartment](https://user-images.githubusercontent.com/44754287/47970659-b371d500-e099-11e8-80c5-fde5bfc664e5.jpg)
 
 
